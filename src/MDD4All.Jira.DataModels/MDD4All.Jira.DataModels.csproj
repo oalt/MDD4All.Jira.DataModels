@@ -7,6 +7,8 @@
     <Description>Data models (POCO) for Jira JSON REST API.</Description>
     <Copyright>(c) MDD4All.de</Copyright>
     <PackageTags>MDD4All Jira DataModels</PackageTags>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>MDD4All_Github.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
