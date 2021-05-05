@@ -7,6 +7,7 @@
     <Description>Data models (POCO) for Jira JSON REST API.</Description>
     <Copyright>(c) MDD4All.de</Copyright>
     <PackageTags>MDD4All Jira DataModels</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
