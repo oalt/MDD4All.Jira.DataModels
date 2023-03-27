@@ -1,0 +1,1 @@
+﻿Data models for Atlassian Jira (Web-)API.
